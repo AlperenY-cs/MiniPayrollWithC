@@ -6,7 +6,7 @@
 ## If Bloğu
 ## While Döngüsü
 
-Temsili Bilgiler
+### Temsili Bilgiler
 
     /*
         İşyeri Maaş Bilgileri 
