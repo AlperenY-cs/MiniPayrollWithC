@@ -2,9 +2,9 @@
 
 # Mini Payroll with C
 
-## Dosya Açma - Okuma - Yazma İşlemleri
-## If Bloğu
-## While Döngüsü
+### Dosya Açma - Okuma - Yazma İşlemleri
+### If Bloğu
+### While Döngüsü
 
 ### Temsili Bilgiler
 
